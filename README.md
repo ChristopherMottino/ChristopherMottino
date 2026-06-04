@@ -1,16 +1,32 @@
-## Hi there 👋
+# Christopher Mottino
 
-<!--
-**ChristopherMottino/ChristopherMottino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former Navy pilot, writer, and technology enthusiast.
 
-Here are some ideas to get you started:
+## Current Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Aviation
+- Space Exploration
+- Science Fiction
+- Leadership
+
+## Writing
+
+### WordPress
+[My WordPress Blog](christophermottino.wordpress.com)
+
+### Medium
+[My Medium Articles](https://medium.com/@chris.mottino)
+
+## Recent Topics
+
+- Project Hail Mary
+- SpaceX and the Future of Spaceflight
+- AI for Small Businesses
+- Military Aviation Lessons
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/christopher-mottino)
+- [X](https://x.com/ChrisMottino)
+- [Instagram](https://www.instagram.com/christopher_mottino/)
